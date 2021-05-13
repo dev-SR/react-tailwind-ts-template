@@ -4,5 +4,5 @@ To install with `yarn`
 
 ```sh
 yarn
-yarn run dev
+yarn dev
 ```
